@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item type="Software">
+        <name>Lazur</name>
+        <link>http://lazur.github.io</link>
+        <description>Lightning-fast Content Delivery Engine</description>
+        <hits>6</hits>
+        <developer>Penaz</developer>
+        <OS>Linux</OS>
+    </item>
+    <item type="Software">
+        <name>Glitch_Heaven</name>
+        <link>http://gh.penazarea.altervista.org</link>
+        <description>Automated Swear Creator - Videogame Edition</description>
+        <hits>5</hits>
+        <developer>Penaz</developer>
+        <OS>Windows (Sadly)</OS>
+    </item>
+    <item type="Video">
+        <name>Arcade Game Programming with Python and Pygame</name>
+        <link>http://pythonstuff.com</link>
+        <description>Learn how to code videogames in python!</description>
+        <hits>1528</hits>
+        <author>F. Conway</author>
+    </item>
+</items>
